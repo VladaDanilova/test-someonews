@@ -7,7 +7,7 @@ setup(
     license='MIT',
     description='A simple project description',
     long_description=open('README.md').read(),
-    install_requires=['altair', 'pytz'], 
+    install_requires=['altair', 'tqdm'], 
     url='https://github.com/VladaDanilova/test-connectionSomeoneWS',
     author='Vlada Danilova',
     author_email='just.you177@gmail.com'
